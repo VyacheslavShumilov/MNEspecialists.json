@@ -1,0 +1,14 @@
+[
+  {
+    "id": "beauty_hairdressers_0001",
+    "name": "Владимир",
+    "location": "Бар",
+    "description": "Мужской парикмахер. Стрижка с фейдом, оформление бороды",
+    "language": "Оказываю услугу на русском языке",
+    "link": "https://t.me/finger_v",
+    "lat": 42.100541,
+    "lon": 19.099192,
+    "imageUrl": "https://raw.githubusercontent.com/vvshum/data/main/beauty/hairdressers/beauty_hairdressers_0001.png",
+    "category": "hairdressers"
+  }
+]
